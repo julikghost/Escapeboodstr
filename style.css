@@ -433,9 +433,7 @@ height:1px;
 
 }
 @media (max-width: 598px){
-  .list1 li:nth-child(n+1), .list2 li:nth-child(n+1) {
-       background:none;
-     }
+ 
   .section-4 p, .section-4 h2{
    margin-bottom:8px;
 }
